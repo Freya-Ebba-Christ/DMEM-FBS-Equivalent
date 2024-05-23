@@ -1,4 +1,7 @@
-Detailed Recipe to Approximate DMEM and FBS Nutrient Profile
+The list below is based on the detailed DMEM formulation ingredients from Sigma-Aldrich (https://www.sigmaaldrich.com/DE/de/technical-documents/technical-article/cell-culture-and-cell-culture-analysis/mammalian-cell-culture/dulbecco-modified-eagle-medium-formulation),
+The recipe aims to approximate the combined nutrient profile of DMEM and FBS using commonly available supplements and powders.
+
+Refined Recipe to Approximate DMEM and FBS Nutrient Profile
 Ingredients:
 
 Base Liquids:
@@ -20,6 +23,48 @@ Tablet Supplements (to be crushed into powder):
 1 Magnesium Tablet (e.g., Nature Made Magnesium Oxide 400mg)
 1 Iron Tablet (e.g., Ferro-Sequels High Potency Iron Supplement)
 1 Comprehensive Amino Acid Tablet (e.g., Now Sports Amino Complete)
+DMEM Formulation Ingredients and Corresponding Sources:
+Inorganic Salts:
+
+Calcium Chloride: in Pocari Sweat and Calcium Tablet
+Ferric Nitrate: in Multivitamin Tablets
+Magnesium Sulfate: in Magnesium Tablet
+Potassium Chloride: in Pocari Sweat and Electrolyte Powder
+Sodium Bicarbonate: in Pocari Sweat
+Sodium Chloride: in Pocari Sweat
+Sodium Phosphate: in Pocari Sweat
+Amino Acids:
+
+L-Arginine: in Protein Shake, Protein Powder, and Amino Acid Tablets
+L-Cystine: in Amino Acid Tablets
+Glycine: in Protein Shake and Amino Acid Tablets
+L-Histidine: in Protein Shake and Amino Acid Tablets
+L-Isoleucine: in Protein Shake and BCAA Powder
+L-Leucine: in Protein Shake and BCAA Powder
+L-Lysine: in Protein Shake and Amino Acid Tablets
+L-Methionine: in Amino Acid Tablets
+L-Phenylalanine: in Protein Shake and Amino Acid Tablets
+L-Serine: in Amino Acid Tablets
+L-Threonine: in Protein Shake and Amino Acid Tablets
+L-Tryptophan: in Protein Shake and Amino Acid Tablets
+L-Tyrosine: in Amino Acid Tablets
+L-Valine: in Protein Shake and BCAA Powder
+Vitamins:
+
+Choline Chloride: in Multivitamin Tablets
+Folic Acid: in Multivitamin Tablets
+myo-Inositol: in Multivitamin Tablets
+Niacinamide: in Multivitamin Tablets
+D-Pantothenic Acid: in Multivitamin Tablets
+Pyridoxal and Pyridoxine: in Multivitamin Tablets
+Riboflavin: in Multivitamin Tablets
+Thiamine: in Multivitamin Tablets
+Other Components:
+
+D-Glucose: in Greens Powder and Electrolyte Powder
+Phenol Red: (optional, typically not in food items)
+Sodium Pyruvate: (optional, typically not in food items)
+L-Glutamine: in Protein Powder and Amino Acid Tablets
 Instructions:
 
 Prepare the Electrolyte Solution:
@@ -54,3 +99,7 @@ Storage:
 
 Store the prepared nutrient solution in a sealed container in the refrigerator.
 Shake well before each use to ensure ingredients remain evenly distributed.
+Note:
+
+This recipe is a rough approximation and intended for educational purposes only. It may not fully replicate the precise conditions and growth factors provided by laboratory-grade DMEM and FBS.
+For actual cell culture work, it is recommended to use certified laboratory-grade media.
